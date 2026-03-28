@@ -1,4 +1,3 @@
-FYI ALL SETUPS ARE THE SAME JUST DIFFRENT MC VERSIONS
 🌙 **MOON BOT SETUP // FULL GUIDE** 🌙
 *Automate. Dominate. Repeat.*
 
@@ -114,3 +113,4 @@ Control the chaos.
 ██║╚██╔╝██║ ██║   ██║██║   ██║██║╚██╗██║
 ██║ ╚═╝ ██║ ╚██████╔╝╚██████╔╝██║ ╚████║
 ╚═╝     ╚═╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
+FYI ALL SETUPS ARE THE SAME JUST DIFFRENT MC VERSIONS
