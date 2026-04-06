@@ -4,6 +4,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🤖 **WHAT IS MOON BOT?**
 Moon Bot is your automated in-game assistant — built to handle tasks, grind, and move like a machine while you sit back.
+This uses Baritone and Meteor client as a fork, If you don't want to use hacks, I suggest using another software.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⚙️ **STEP 1 — PREP YOUR CLIENT**
